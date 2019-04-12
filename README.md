@@ -16,7 +16,7 @@ git clone https://github.com/arunes/react-web-boilerplate-parcel.git
 cd react-web-boilerplate-parcel
 
 # install node dependencies
-npm install -d
+npm install
 
 # start the development server
 npm start
